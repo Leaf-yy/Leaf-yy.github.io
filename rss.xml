@@ -10,9 +10,21 @@
         </author>
         <description>欲语泪先流</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 07 Dec 2022 19:32:56 +0800</pubDate>
-        <lastBuildDate>Wed, 07 Dec 2022 19:32:56 +0800</lastBuildDate>
+        <pubDate>Wed, 21 Dec 2022 14:24:14 +0800</pubDate>
+        <lastBuildDate>Wed, 21 Dec 2022 14:24:14 +0800</lastBuildDate>
         <category term="simple" />
+        <item>
+            <guid isPermalink="true">https://leaf-yy.github.io/2022/12/21/Linux/Linux/</guid>
+            <title>Linux</title>
+            <link>https://leaf-yy.github.io/2022/12/21/Linux/Linux/</link>
+            <category term="Linux" scheme="https://leaf-yy.github.io/categories/Linux/" />
+            <category term="Linux" scheme="https://leaf-yy.github.io/tags/Linux/" />
+            <pubDate>Wed, 21 Dec 2022 14:24:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&#34;学习记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习记录&#34;&gt;#&lt;/a&gt; 学习记录&lt;/h1&gt;
+&lt;h3 id=&#34;一些bug解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些bug解决方案&#34;&gt;#&lt;/a&gt; 一些 bug 解决方案&lt;/h3&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://leaf-yy.github.io/2022/12/07/poem/</guid>
             <title>喜欢的诗词</title>

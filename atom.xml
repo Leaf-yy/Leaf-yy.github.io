@@ -8,8 +8,20 @@
     <author>
       <name>Leaf</name>
     </author>
-    <updated>2022-12-07T11:32:56.347Z</updated>
+    <updated>2022-12-21T06:24:14.009Z</updated>
     <category term="simple" />
+    <entry>
+        <id>https://leaf-yy.github.io/2022/12/21/Linux/Linux/</id>
+        <title>Linux</title>
+        <link rel="alternate" href="https://leaf-yy.github.io/2022/12/21/Linux/Linux/"/>
+        <content type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&#34;学习记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习记录&#34;&gt;#&lt;/a&gt; 学习记录&lt;/h1&gt;
+&lt;h3 id=&#34;一些bug解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些bug解决方案&#34;&gt;#&lt;/a&gt; 一些 bug 解决方案&lt;/h3&gt;
+</content>
+        <category term="Linux" scheme="https://leaf-yy.github.io/categories/Linux/" />
+        <category term="Linux" scheme="https://leaf-yy.github.io/tags/Linux/" />
+        <updated>2022-12-21T06:24:14.009Z</updated>
+    </entry>
     <entry>
         <id>https://leaf-yy.github.io/2022/12/07/poem/</id>
         <title>喜欢的诗词</title>
